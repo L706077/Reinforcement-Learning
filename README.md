@@ -7,7 +7,7 @@
 - [C++ reinforce](https://github.com/jinfagang/Q-Learning)
 - [C++ reinforce blog](http://mnemstudio.org/path-finding-q-learning-tutorial.htm)
 - [C++ reinforce blog 中文](http://blog.csdn.net/pi9nc/article/details/27649323)
-
+- [DQN教學](http://www.teach.cs.toronto.edu/~csc2542h/fall/material/csc2542f16_dqn.pdf)
 
 ---
 
