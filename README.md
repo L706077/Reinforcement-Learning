@@ -14,3 +14,8 @@
 ## Tensorflow 
 - [安裝介紹](https://fgc.stpi.narl.org.tw/activity/videoDetail/4b1141305d9cd231015d9d07dbe1002a)
 - [功能介紹](https://blog.gtwang.org/statistics/tensorflow-google-machine-learning-software-library-tutorial/)
+
+---
+
+## Papers
+- [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf) [Volodymyr Mnih et al., 2013]
