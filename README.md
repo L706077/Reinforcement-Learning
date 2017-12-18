@@ -20,8 +20,8 @@
 
 ## source code
 - [DQN Caffe](https://github.com/muupan/dqn-in-the-caffe)
-- [DQN Caffe使用教學](http://dataunion.org/14473.html)
-
+- [DQN 可用資源](http://dataunion.org/14473.html)
+- [DQN Caffe使用教學](http://blog.csdn.net/hmxiaobao/article/details/51275122)
 ---
 
 ## Papers
