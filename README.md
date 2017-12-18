@@ -9,6 +9,7 @@
 - [C++ reinforce blog 中文](http://blog.csdn.net/pi9nc/article/details/27649323)
 - [DQN教學](http://www.teach.cs.toronto.edu/~csc2542h/fall/material/csc2542f16_dqn.pdf)
 - [Standford 教學](https://www.youtube.com/watch?v=lvoHnicueoE)
+- [DeepMind 2013中文講解](http://www.jianshu.com/p/d347bb2ca53c)
 ---
 
 ## Tensorflow 
