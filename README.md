@@ -24,6 +24,7 @@
 - [DQN Caffe使用教學](http://blog.csdn.net/hmxiaobao/article/details/51275122)
 
 - [Asynchronous Advantage Actor-Critic (A3C)](https://github.com/miyosuda/async_deep_reinforce)
+- [Nervana Coach](http://blog.csdn.net/Ksf3kg7dU95rn0XL/article/details/78325626)
 ---
 
 ## Papers
