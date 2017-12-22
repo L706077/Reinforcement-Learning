@@ -32,3 +32,7 @@
 ## Papers
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf) [Volodymyr Mnih et al., 2013]
 - [Human Level Control through Deep Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) [Volodymyr Mnih et al., 2015]
+
+- [Playing Doom with SLAM-Augmented Deep Reinforcement Learning](https://arxiv.org/pdf/1612.00380.pdf) [Oxford 2016]
+- [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673) [DeepMind 2017]
+- [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1610.03295) [Mobileye 2016]
