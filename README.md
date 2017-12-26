@@ -29,6 +29,13 @@
 - [Nervana Coach github](https://github.com/NervanaSystems/coach)
 ---
 
+## Robotic Manipulation
+- [近期導航paper介紹1](https://zhuanlan.zhihu.com/p/31344824)
+- [Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates.](https://arxiv.org/pdf/1610.00633.pdf) [GoogleBrain DeepMind Berkeley 2016]
+- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection.](https://arxiv.org/pdf/1603.02199.pdf) [Google 2016]
+
+---
+
 ## Autonomous Robot Navigation
 - [近期導航paper介紹1](http://blog.csdn.net/yangziluomu/article/details/69067173)
 - [近期導航paper介紹2](https://www.zhihu.com/question/57456575/answer/155299554)
