@@ -1,5 +1,6 @@
 # Reinforcement-Learning
 
+- [DRL領域中文介紹](https://zhuanlan.zhihu.com/p/25239682)
 - [Introduction openAI Blog](https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym)
 - [Introduction openAI Github](https://github.com/wagonhelm/Reinforcement-Learning-Introduction/blob/master/Reinforcement%20Learning%20Introduction.ipynb)
 - [openAI Ggithub](https://github.com/openai/gym#what-s-new)
