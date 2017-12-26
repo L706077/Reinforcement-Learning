@@ -29,6 +29,11 @@
 - [Nervana Coach github](https://github.com/NervanaSystems/coach)
 ---
 
+## Autonomous Robot Navigation
+- [近期導航paper介紹1](http://blog.csdn.net/yangziluomu/article/details/69067173)
+- [近期導航paper介紹2](https://www.zhihu.com/question/57456575/answer/155299554)
+---
+
 ## Papers
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf) [Volodymyr Mnih et al., 2013]
 - [Human Level Control through Deep Reinforcement Learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) [Volodymyr Mnih et al., 2015]
@@ -36,3 +41,8 @@
 - [Playing Doom with SLAM-Augmented Deep Reinforcement Learning](https://arxiv.org/pdf/1612.00380.pdf) [Oxford 2016]
 - [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673) [DeepMind 2017]
 - [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1610.03295) [Mobileye 2016]
+- [Virtual-to-real Deep Reinforcement Learning: Continuous Control of Mobile Robots for Mapless Navigation](https://arxiv.org/abs/1703.00420) [香港科大 2017]
+- [Neural SLAM: Learning to Explore with External Memory](https://arxiv.org/abs/1706.09520) [香港科大 2017]
+
+
+
