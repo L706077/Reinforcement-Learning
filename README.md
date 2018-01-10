@@ -51,6 +51,8 @@
 - [Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving](https://arxiv.org/abs/1610.03295) [Mobileye 2016]
 - [Virtual-to-real Deep Reinforcement Learning: Continuous Control of Mobile Robots for Mapless Navigation](https://arxiv.org/abs/1703.00420) [香港科大 2017]
 - [Neural SLAM: Learning to Explore with External Memory](https://arxiv.org/abs/1706.09520) [香港科大 2017]
+- [Toward Low-Flying Autonomous MAV Trail Navigation using Deep Neural Networks for Environmental Awareness](https://arxiv.org/pdf/1705.02550.pdf) [Nvidia 2017]
+
 
 
 
