@@ -58,7 +58,7 @@
 - [DDPG Paper](https://arxiv.org/abs/1509.02971)
 - [DDPG介紹](http://blog.csdn.net/kenneth_yu/article/details/78478356)
 - [DDPG實現](http://blog.csdn.net/kenneth_yu/article/details/78781901)
-
-
+- [DDPG reference github1](https://github.com/liampetti/DDPG)
+- [DDPG reference github2](https://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html)
 
 
