@@ -53,6 +53,12 @@
 - [Neural SLAM: Learning to Explore with External Memory](https://arxiv.org/abs/1706.09520) [香港科大 2017]
 - [Toward Low-Flying Autonomous MAV Trail Navigation using Deep Neural Networks for Environmental Awareness](https://arxiv.org/pdf/1705.02550.pdf) [Nvidia 2017]
 
+---
+## DDPG
+- [DDPG Paper](https://arxiv.org/abs/1509.02971)
+- [DDPG介紹](http://blog.csdn.net/kenneth_yu/article/details/78478356)
+- [DDPG實現](http://blog.csdn.net/kenneth_yu/article/details/78781901)
+
 
 
 
