@@ -61,4 +61,10 @@
 - [DDPG reference github1](https://github.com/liampetti/DDPG)
 - [DDPG reference github2](https://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html)
 
+---
+## A3C
+- [A3C github](https://github.com/awjuliani/DeepRL-Agents/blob/master/A3C-Doom.ipynb)
+- [A3C blog](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
+
+
 
